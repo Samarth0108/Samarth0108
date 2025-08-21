@@ -23,7 +23,7 @@
   <strong>welcome to the data circus.</strong>
   <br><br>
   For a polished version of my journey with just enough buzzwords to sound corporate-ready,  
-  check out my <a href="[https://www.linkedin.com/in/samarth-agrawal21/](https://www.linkedin.com/in/samarth-agrawal-bbb50a253/)">LinkedIn</a>.  
+  check out my <a href="https://www.linkedin.com/in/samarth-agrawal-bbb50a253/">LinkedIn</a>.  
   It’s where I pretend I’ve optimized life’s algorithm.  
   <br><br>
   Until then, I’ll be here — cleaning datasets, training models, and occasionally overfitting myself.
