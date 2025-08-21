@@ -8,6 +8,28 @@
 </h2>
 <h3 align="center">A passionate Machine Learning & Artiifcial Intelligence Engineer !! </h3>
 <h4 align="center">Always ready to learn new and innovative things round the corner !!😉</h4>
+
+<p align="center">
+  I'm a <strong>data science & AI enthusiast</strong> by passion, a <strong>developer</strong> by skill,  
+  and a <strong>curious learner</strong> by habit.  
+  <br><br>
+  I work on projects that <em>(hopefully)</em> detect fraud before it happens and  
+  <em>(sometimes)</em> make machines look a little smarter than me.  
+  <br><br>
+  Lately, I've been exploring <strong>machine learning, deep learning, and data analytics</strong> —  
+  which is basically teaching math to computers while debugging my own brain.  
+  <br><br>
+  If you're here to figure out who I am, what I do, or why my code still runs after the 100th error —  
+  <strong>welcome to the data circus.</strong>
+  <br><br>
+  For a polished version of my journey with just enough buzzwords to sound corporate-ready,  
+  check out my <a href="https://www.linkedin.com/in/samarth-agrawal21/">LinkedIn</a>.  
+  It’s where I pretend I’ve optimized life’s algorithm.  
+  <br><br>
+  Until then, I’ll be here — cleaning datasets, training models, and occasionally overfitting myself.
+</p>
+
+
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
   <a href="https://leetcode.com/u/samarthag01/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="jyot" height="200" width="200" /></a>
