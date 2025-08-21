@@ -13,6 +13,10 @@
 <h3 align="center">A passionate Machine Learning & Artiifcial Intelligence Engineer !! </h3>
 <h4 align="center">Always ready to learn new and innovative things round the corner !!😉</h4>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&color=%234169E1&size=25&center=true&vCenter=true&width=600&height=100&lines=Machine+Learning+Enthusiast;Real+World+Problem+Solver;Competitive+Programmer;Frontend+Developer;Computer+Science+And+Engineering+Student">
+</p>
+
 ## <picture><img src = "https://github.com/Samarth0108/Samarth0108/blob/main/about_me.gif" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/Samarth0108/Samarth0108/blob/main/Right_Side.gif" width = 250px></picture>
