@@ -56,7 +56,7 @@
 ## 🛠️ My Skills
 
 <p align="center">
-	    <img alt="Samarth0108's Github Stats" src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,gradle,javascript,nodejs,mongodb,express,npm,html,css,c,git,github,firebase" height="180px"/> 
+	    <img alt="Samarth0108's Github Stats" src="https://skillicons.dev/icons?i=python,java,html,css,c,tensorflow,github" height="180px"/> 
 
 ---
 
